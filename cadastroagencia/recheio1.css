@@ -1,0 +1,102 @@
+section{
+    background-color: rgb(255, 255, 255);
+    width: 100vw;
+    height: 65vw;
+}
+#img{
+    background-color: #08678C;
+    height: 45vw;
+    width: 90vw;
+    position: absolute;
+    right: 6vw;
+    bottom:-1vw;
+    border-radius: 3vw;
+}
+#requi{
+    background-color: #4B4B4B;
+height: 40vw;
+width: 60vw;
+border-radius: 3vw;
+bottom: 3vw;
+position: absolute;
+left: 3vw;
+}
+#bramco{
+    background-color: white;
+height: 40vw;
+width: 22vw;
+border-radius: 3vw;
+position: absolute;
+right: 5vw;
+top: 2vw;
+}
+#emp{
+    position: absolute;
+    top: vw;
+    right: 7vw;
+    font-size: 50px
+}
+#cnp{
+    position: relative;
+    top: 6vw;
+    left: 9vw;
+}
+#gm{
+    position: absolute;
+    top: 14vw;
+    left: 9vw;
+}
+#conf{
+    position: absolute;
+    bottom: 4vw;
+    right: 5vw;
+    height: 3vw;
+    width: 12vw;
+    border-radius: 3vw;
+}
+#gm2{
+   position: absolute;
+   top: 18vw;
+   right: 4vw;
+   height: 1vw;
+   width: 14vw;
+   border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid #000;
+}
+#cnp2{
+    position: absolute;
+    top: 10vw;
+    right: 4vw;
+    width: 14vw;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid #000; 
+}
+#senha{
+    position: absolute;
+    bottom: 10vw;
+    right: 2vw;
+    height: 3vw;
+    width: 17vw;
+    border-radius: 3vw;
+}
+#esquec{
+    position: absolute;
+    bottom: 8vw;
+    right: 2vw;
+font-size: 1vw;
+}
+#chec{
+    position: absolute;
+    bottom: 8vw;
+    left: 2vw;
+}
+#lembre{
+    position: absolute;
+    bottom: 8vw;
+    right: 12vw;
+font-size: 1vw;
+}

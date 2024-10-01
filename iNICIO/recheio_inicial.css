@@ -1,0 +1,23 @@
+section{
+    background-color: rgb(255, 255, 255);
+    width: 100vw;
+    height: 45vw;
+    overflow: hidden;
+}
+div{
+    background-color: #08678C;
+    width: 80vw;
+    height: 40vw;
+    border-radius: 3vw;
+    position: absolute;
+    right: 10vw;
+    bottom: 7vw;
+}
+button{
+    border-radius: 15vw;
+    height: 3vw;
+    width: 12vw;
+    position: absolute;
+    bottom: 4vw;
+right: 35vw;
+}

@@ -1,0 +1,6 @@
+@import url(recheio_inicial.css);
+@import url(rodapé_inicial.css);
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}

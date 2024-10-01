@@ -1,0 +1,32 @@
+#fundo-azul{
+    background-color: #08678C;
+    position: absolute;
+    top: 5vw;
+    left: 10vw;
+    height: 40vw;
+    width: 80vw;
+border-radius: 3vw;
+}
+#cpf{
+    position: absolute;
+    height: 3vw;
+     width: 17vw;
+     border-radius: 3vw;
+ }
+ #Gmail{
+     position: absolute;
+     height: 3vw;
+     width: 17vw;
+     border-radius: 3vw;
+     top: 19vw;
+}
+
+ }
+ #Nome{
+    position: absolute;
+    bottom: 10vw;
+    right: 2vw;
+    height: 3vw;
+    width: 17vw;
+    border-radius: 3vw;
+ }
